@@ -123,15 +123,15 @@ ou bien <br />
 ## Aller + loin
 **Se constituer une base de données générique via cet outil avec les intentions de base**
 <br />Pour se constituer une base d'intention "type" : 
-- Créer une App Wit.ai
-- Créer une valeur d'intention "Dire_Bonjour" par exemple
-- Entrainer cette intention avec de multiples expressions via cet outil
-- Répéter l'opération avec une autre valeur d'intention comme "Nom_du_chatbot" par exemple
-- Entrainter cette intention avec de multiples expressions via cet outil
-- Au fur et à mesure, compléter cette base et répéter l'opération autant de fois que possible.<br /><br />
+- Créez une App Wit.ai
+- Créez une valeur d'intention "Dire_Bonjour" par exemple
+- Entrainez cette intention avec de multiples expressions via cet outil
+- Répétez l'opération avec une autre valeur d'intention comme "Nom_du_chatbot" par exemple
+- Entrainez cette intention avec de multiples expressions via cet outil
+- Au fur et à mesure, complétez cette base et répéter l'opération autant de fois que possible.<br /><br />
 
 Lorsque vous crééz un nouveau Chatbot : <br />
-- Exporter via Wit.ai les intentions créées (au format .JSON) afin d'importer celles-ci dans un nouveau projet Wit.ai vierge.
+- Exportez via Wit.ai les intentions créées (au format .JSON) afin d'importer celles-ci dans un nouveau projet Wit.ai vierge.
 
 ## Contacts
 Pour tous renseignements ou demandes d'informations, veuillez contacter directement [mathieu.duboy@gmail.com]()
